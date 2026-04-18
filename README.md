@@ -1,82 +1,23 @@
-# 👋 Hello, I'm Mohammed Furqaan
+# Professional Profile
 
-**Java Full Stack Developer | AI Enthusiast | Technology Explorer**
+## Mohammed Furqaan
+### Java Full Stack Developer | AI Enthusiast
 
----
+#### Tech Stack
+- **Front-end:** JavaScript, React, HTML, CSS
+- **Back-end:** Java, Spring Boot, Node.js
+- **Database:** MySQL, MongoDB
+- **DevOps:** Docker, Kubernetes, Jenkins
+- **Cloud:** AWS, Azure
+- **AI/ML:** TensorFlow, PyTorch
 
-## 🚀 About Me
+#### Projects
+1. **E-Commerce Website**  
+   Created a full-fledged e-commerce platform using React and Spring Boot, integrating payment gateways and user authentication.
+2. **Machine Learning Chatbot**  
+   Developed a chatbot utilizing NLP techniques, capable of answering queries and learning from user interactions.
+3. **Portfolio Website**  
+   Designed a personal portfolio website showcasing projects and skills using HTML and CSS.
 
-I'm a passionate Java full stack developer with a strong enthusiasm for artificial intelligence and emerging technologies. I love building scalable applications and exploring the intersection of software engineering and AI. With a focus on clean code and best practices, I strive to create solutions that are both robust and maintainable.
-
----
-
-## 💻 Technical Skills
-
-### Backend Development
-- **Java** (Spring Boot, Spring Framework, Hibernate)
-- **Database Design** (SQL, NoSQL, PostgreSQL, MongoDB)
-- **RESTful APIs** & **Microservices Architecture**
-- **Servlet & JSP**
-- **Maven & Gradle**
-
-### Frontend Development
-- **JavaScript / TypeScript**
-- **React.js**
-- **HTML5 & CSS3**
-- **Responsive Design**
-
-### AI & Machine Learning
-- **Python** for Data Science
-- **Machine Learning** fundamentals
-- **Deep Learning** concepts
-- **Natural Language Processing (NLP)**
-- **TensorFlow & PyTorch**
-
-### Tools & Technologies
-- **Git & GitHub**
-- **Docker & Kubernetes**
-- **CI/CD Pipelines**
-- **Linux/Unix**
-- **Postman & API Testing**
-
----
-
-## 🎯 What I'm Interested In
-
-- 🤖 **Artificial Intelligence & Machine Learning** - Developing intelligent systems and exploring AI applications
-- 📱 **Full Stack Web Development** - Creating end-to-end solutions
-- 🔧 **Software Architecture** - Designing scalable and maintainable systems
-- 🌐 **Cloud Technologies** - AWS, Azure, Google Cloud
-- 📊 **Data Science** - Leveraging data for insights and decision-making
-- 🚀 **Open Source** - Contributing to the developer community
-
----
-
-## 📈 Featured Projects
-
-*Projects coming soon! Check back for updates on my latest work in Java, AI, and full stack development.*
-
----
-
-## 🎓 Learning & Growth
-
-I'm continuously learning and exploring new technologies. Currently focused on:
-- Advanced AI/ML implementations
-- Cloud-native application development
-- Distributed systems architecture
-- DevOps best practices
-
----
-
-## 📫 Get In Touch
-
-Feel free to reach out! I'm always interested in collaborating on projects or discussing technology.
-
-- **GitHub**: [@Mohammed-Furqaan](https://github.com/Mohammed-Furqaan)
-- **Email**: [Your Email Here]
-- **LinkedIn**: [Your LinkedIn Profile]
-- **Twitter/X**: [@YourHandle]
-
----
-
-**⭐ Feel free to explore my repositories and don't hesitate to connect!**
+#### Career Vision
+I aim to leverage my full-stack development skills and passion for artificial intelligence to build innovative solutions that enhance user experience and drive efficiency. I'm committed to continuous learning and staying updated with emerging technologies to tackle real-world challenges and contribute positively to society.
