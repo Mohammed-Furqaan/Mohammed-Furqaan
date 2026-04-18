@@ -144,7 +144,7 @@ public class MohammedFurqaan extends Developer {
 
 🗓️ June 2025 – January 2026
 
-[![Repo](https://img.shields.io/badge/View_Repo-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohammed-Furqaan)
+[![Repo](https://img.shields.io/badge/View_Repo-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohammed-Furqaan/AI-Driven-Stockify-IMSS)
 ![](https://img.shields.io/badge/Status-Completed-3fb950?style=for-the-badge)
 
 </td>
@@ -169,8 +169,8 @@ public class MohammedFurqaan extends Developer {
 
 🗓️ 2025 &nbsp;&nbsp; 🌐 Live on Netlify
 
-[![Live](https://img.shields.io/badge/Live_Demo-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)](#)
-[![Repo](https://img.shields.io/badge/View_Repo-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohammed-Furqaan)
+[![Live](https://img.shields.io/badge/Live_Demo-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)](https://expensense-set.netlify.app/login)
+[![Repo](https://img.shields.io/badge/View_Repo-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohammed-Furqaan/ExpenSense)
 
 </td>
 </tr>
