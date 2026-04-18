@@ -1,23 +1,25 @@
-# Professional Profile
+# Mohammed Furqaan
 
-## Mohammed Furqaan
-### Java Full Stack Developer | AI Enthusiast
+## Java Full Stack Developer & AI Enthusiast
 
-#### Tech Stack
-- **Front-end:** JavaScript, React, HTML, CSS
-- **Back-end:** Java, Spring Boot, Node.js
-- **Database:** MySQL, MongoDB
-- **DevOps:** Docker, Kubernetes, Jenkins
-- **Cloud:** AWS, Azure
-- **AI/ML:** TensorFlow, PyTorch
+### GitHub Stats
+![Mohammed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohammed-Furqaan&show_icons=true&theme=radical)
 
-#### Projects
-1. **E-Commerce Website**  
-   Created a full-fledged e-commerce platform using React and Spring Boot, integrating payment gateways and user authentication.
-2. **Machine Learning Chatbot**  
-   Developed a chatbot utilizing NLP techniques, capable of answering queries and learning from user interactions.
-3. **Portfolio Website**  
-   Designed a personal portfolio website showcasing projects and skills using HTML and CSS.
+### Tech Stack
+- **Languages**: Java, JavaScript, HTML, CSS
+- **Frameworks**: Spring, React, Node.js
+- **Databases**: MySQL, MongoDB
+- **Tools**: Git, Docker, Jenkins
 
-#### Career Vision
-I aim to leverage my full-stack development skills and passion for artificial intelligence to build innovative solutions that enhance user experience and drive efficiency. I'm committed to continuous learning and staying updated with emerging technologies to tackle real-world challenges and contribute positively to society.
+### Animated Header Banner with Typing Animation
+![Typing Animation](https://github.com/yourusername/youranimationrepo)
+
+*Feel free to connect with me on other platforms!*
+
+### Contact
+- Email: mohammed@example.com  
+- LinkedIn: [linkedin.com/in/mohammedfurqaan](https://www.linkedin.com/in/mohammedfurqaan) 
+
+---
+
+*Last updated: 2026-04-18 19:26:32 UTC*
