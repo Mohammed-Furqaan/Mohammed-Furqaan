@@ -235,14 +235,15 @@ public class MohammedFurqaan extends Developer {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mohammed-Furqaan&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=8b949e&include_all_commits=true&count_private=true&rank_icon=github" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mohammed-Furqaan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Furqaan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mohammed-Furqaan&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=8b949e&include_all_commits=true&count_private=true" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammed-Furqaan&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&sideNums=8b949e&sideLabels=8b949e&dates=8b949e" />
 
 <br/><br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Furqaan&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8" />
-&nbsp;&nbsp;
-<img width="55%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammed-Furqaan&bg_color=0d1117&color=58a6ff&line=3fb950&point=58a6ff&area=true&area_color=1a2332&hide_border=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Furqaan&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8" />
+<img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammed-Furqaan&bg_color=0d1117&color=58a6ff&line=3fb950&point=58a6ff&area=true&hide_border=true" />
 
 </div>
 
@@ -294,9 +295,9 @@ public class MohammedFurqaan extends Developer {
 
 <br/>
 
-| 📍 Location | 📞 Phone | 🎓 Graduating | ⚡ Availability |
+| 📍 Location | 🎓 Graduating | ⚡ Availability |
 |---|---|---|---|
-| Karnataka, India | +91 93537 74230 | May 2026 | Immediate |
+| Karnataka, India | May 2026 | Immediate |
 
 <br/>
 
