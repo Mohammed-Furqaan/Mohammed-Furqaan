@@ -85,7 +85,7 @@ public class Mohammed_Furqaan {
 - 📡 Developed scalable **RESTful APIs** backed by optimized MongoDB queries for high-performance data management
 - 🎨 Crafted a fully **responsive React UI** for a seamless cross-device experience
 
-[![View Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohammed-Furqaan)
+[![View Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohammed-Furqaan/AI-Driven-Stockify-IMSS)
 
 ---
 
@@ -98,8 +98,8 @@ public class Mohammed_Furqaan {
 - 🔒 Built **secure JWT-based authentication** with reliable backend APIs
 - ☁️ Deployed live on **Netlify** for public access
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](#)
-[![View Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohammed-Furqaan)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://expensense-set.netlify.app/)
+[![View Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohammed-Furqaan/ExpenSense)
 
 ---
 
