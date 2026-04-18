@@ -297,7 +297,9 @@ public class MohammedFurqaan extends Developer {
 <br/>
 
 | 📍 Location | 🎓 Graduating | ⚡ Availability |
-|---|---|---|---|
+
+<br/>
+
 | Karnataka, India | May 2026 | Immediate |
 
 <br/>
