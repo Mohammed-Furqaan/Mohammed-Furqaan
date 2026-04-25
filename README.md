@@ -39,7 +39,6 @@ public class MohammedFurqaan extends Developer {
   float  cgpa     = 8.51f;
   String location = "Karnataka, India";
   String email    = "mohammedfurqaan999@gmail.com";
-  String phone    = "+91 93537 74230";
 
   String[] stack = {
     "Java", "React", "Spring Boot",
