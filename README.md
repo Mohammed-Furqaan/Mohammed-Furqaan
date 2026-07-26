@@ -8,7 +8,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=500&height=40&lines=Building+production-grade+web+apps+%F0%9F%9A%80;Java+%7C+React+%7C+Spring+Boot+%7C+MongoDB;CGPA+8.51+%7C+VTU+Belagavi%2C+Karnataka;SDE+Intern+%40+Tap+Academy+%7C+Feb+2026;Open+to+Full-Stack+SDE+Roles+%F0%9F%92%BC)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=500&height=40&lines=Building+production-grade+web+apps+%F0%9F%9A%80;Java+%7C+React+%7C+Spring+Boot+%7C+MongoDB;CGPA+8.66+%7C+VTU+Belagavi%2C+Karnataka;SDE+Intern+%40+Tap+Academy+%7C+Feb+2026;Open+to+Full-Stack+SDE+Roles+%F0%9F%92%BC)](https://git.io/typing-svg)
 
 <br/>
 
@@ -36,7 +36,7 @@ public class MohammedFurqaan extends Developer {
   String name     = "Mohammed Furqaan Annigeri";
   String role     = "SDE Intern @ Tap Academy";
   String degree   = "B.E. CSE — VTU, Belagavi";
-  float  cgpa     = 8.51f;
+  float  cgpa     = 8.66f;
   String location = "Karnataka, India";
   String email    = "mohammedfurqaan999@gmail.com";
 
@@ -55,7 +55,7 @@ public class MohammedFurqaan extends Developer {
 <br/>
 
 - 🔭 Currently building real-world apps as **SDE Intern @ Tap Academy Pvt. Ltd.**
-- 🎓 Final-year **B.E. CSE** at AGMRCET, VTU Belagavi — **CGPA: 8.51**
+- 🎓 Final-year **B.E. CSE** at AGMRCET, VTU Belagavi — **CGPA: 8.66**
 - 💡 Built full-stack apps with **AI integration**, **WebSockets** & **RBAC**
 - 🌱 Currently deepening skills in **Spring Boot** and **System Design**
 - 🎯 Seeking **entry-level Full-Stack SDE** roles — available immediately
@@ -112,7 +112,9 @@ public class MohammedFurqaan extends Developer {
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
 
@@ -149,6 +151,33 @@ public class MohammedFurqaan extends Developer {
 </td>
 <td width="50%" valign="top">
 
+### 🛡️ SentinelIQ
+> Full-Stack Agile Project Management Platform
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+```
+📋 Real-time task tracking & team collaboration
+🗂️ Interactive Kanban board — dynamic workflows
+🔐 Spring Security + JWT auth & RBAC
+🗄️ Normalized MySQL via Hibernate/JPA (~30% faster)
+⚡ 40% reduction in manual task management effort
+☁️ Deployed via Vercel, Render & Aiven
+```
+
+🗓️ June 2026 – Present
+
+[![Live](https://img.shields.io/badge/Live_Demo-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://sentinal-iq.vercel.app/)
+[![Repo](https://img.shields.io/badge/View_Repo-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohammed-Furqaan/SentinelIQ)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### 💰 ExpenSense
 > Smart Personal Expense Tracker
 
@@ -170,6 +199,57 @@ public class MohammedFurqaan extends Developer {
 
 [![Live](https://img.shields.io/badge/Live_Demo-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)](https://expensense-set.netlify.app/login)
 [![Repo](https://img.shields.io/badge/View_Repo-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohammed-Furqaan/ExpenSense)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎬 Binge
+> Modern Movie Discovery Platform
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TMDB API](https://img.shields.io/badge/TMDB_API-01D277?style=flat-square&logo=themoviedatabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+```
+🎬 Trending movies & search functionality
+📄 Detailed movie pages with ratings
+📱 Fully responsive interface
+⚡ Fast, TMDB-API-powered browsing
+```
+
+🗓️ Completed
+
+[![Live](https://img.shields.io/badge/Live_Demo-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://binge-opal.vercel.app/)
+[![Repo](https://img.shields.io/badge/View_Repo-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohammed-Furqaan/Binge)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🍽️ Nourish
+> Full-Stack Food Ordering Platform
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+```
+🍽️ Java Servlets, JSP, JDBC & MySQL backend
+🔐 Secure authentication & restaurant management
+🛒 Shopping cart & order processing
+🏗️ Responsive MVC architecture
+```
+
+🗓️ Completed
+
+[![Repo](https://img.shields.io/badge/View_Repo-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohammed-Furqaan/NOURISH)
+![](https://img.shields.io/badge/Status-Completed-3fb950?style=for-the-badge)
+
+</td>
+<td width="50%" valign="top">
 
 </td>
 </tr>
@@ -209,7 +289,7 @@ public class MohammedFurqaan extends Developer {
  │                                                                       │
  │   🎓  B.E. in Computer Science Engineering                           │
  │       AGMRCET (Affiliated to VTU, Belagavi)    2022 – 2026          │
- │       Varur, Karnataka                          CGPA: 8.51 / 10      │
+ │       Varur, Karnataka                          CGPA: 8.66 / 10      │
  │                                                                       │
  ├─────────────────────────────────────────────────────────────────────┤
  │                                                                       │
@@ -236,7 +316,7 @@ public class MohammedFurqaan extends Developer {
 
   <!-- GitHub Stats + Streak -->
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mohammed-Furqaan&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=8b949e&include_all_commits=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammed-Furqaan&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&sideNums=8b949e&sideLabels=8b949e&dates=8b949e" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=Mohammed-Furqaan&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&sideNums=8b949e&sideLabels=8b949e&dates=8b949e" />
 
   <br/><br/>
 
@@ -273,11 +353,11 @@ public class MohammedFurqaan extends Developer {
 
 ## 🏅 Achievements
 
-- 🚀 Built multiple **full-stack & AI-powered** projects demonstrating end-to-end development skills
+- 🚀 Built **five full-stack & AI-powered** projects demonstrating end-to-end development skills
 - 🧠 Consistent **DSA practice** to sharpen problem-solving and algorithmic thinking
 - 🎤 Enhanced technical communication through **presentations, demos and team collaboration**
-- 🌐 Successfully **deployed live applications** on Netlify used by real users
-- 💡 Maintained **CGPA 8.51** while building production-grade projects alongside academics
+- 🌐 Successfully **deployed live applications** on Vercel and Netlify used by real users
+- 💡 Maintained **CGPA 8.66** while building production-grade projects alongside academics
 
 ---
 
@@ -288,6 +368,8 @@ public class MohammedFurqaan extends Developer {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-furqaan/)
 &nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-mohammedfurqaan999%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammedfurqaan999@gmail.com)
+&nbsp;
+[![X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Md_Furqaan_)
 &nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://furqaandev.vercel.app/)
 &nbsp;
